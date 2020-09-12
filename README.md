@@ -1,5 +1,5 @@
 # 8mm ～ 发声给我力量
-# 常熟农商银行8mm项目欢迎您
+## 常熟农商银行8mm项目欢迎您
 
 ## 发生了什么
 ### 如您所知，常熟农商行金融科技总部2.5产业园办公室员工体检，发现大量员工有肺部结节，现在我们正在和银行平和理性积极地沟通。创建此GitHub项目，是希望大家发挥自己地智慧，群策群力，用技术地手段让你我畅所欲言。
@@ -32,3 +32,5 @@
 ## 我们的 Gitter 实时聊天群组  <https://gitter.im/csrcbank/tech>
 ### 您也可以扫如下二维码加入聊天
 ![avatar](https://qr.api.cli.im/newqr/create?data=https%3A%2F%2Fgitter.im%2Fcsrcbank%2Ftech&level=H&transparent=false&bgcolor=%23FFFFFF&forecolor=%23000000&blockpixel=12&marginblock=2&logourl=http%3A%2F%2Foss-cn-hangzhou.aliyuncs.com%2Fpublic-cli%2Ffree%2Fd7ec8f33f6cd770baed0518e854a8c691599875603.jpg&logoshape=rect&size=260&bgimg=&text=&fontsize=30&fontcolor=%23000000&fontfamily=simsun.ttc&incolor=&outcolor=&qrcode_eyes=null&background=&wper=&hper=&tper=&lper=&eye_use_fore=1&qrpad=10&kid=cliim&key=47de2c74871323527f45da3897b62527)
+
+#######欢迎英文好的同事贡献此文的英文版
