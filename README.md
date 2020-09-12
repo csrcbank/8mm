@@ -3,15 +3,21 @@
 
 ## 发生了什么
 ### 如您所知，常熟农商行金融科技总部2.5产业园办公室员工体检，发现大量员工有肺部结节，现在我们正在和银行平和理性积极地沟通。创建此GitHub项目，是希望大家发挥自己地智慧，群策群力，用技术地手段让你我畅所欲言。
-#### 如果您需要保持匿名，请注意如下事项：
-##### 1、在您提交前确保使用的GitHub账号昵称不包含个人实名信息
-##### 2、请设置您的GitHub账号不公开email地址
-##### 3、请确保上传的病例信息打码个人信息
-##### 4、git commit前使用git config -l命令查看当前项目配置，确保 user.name 和 user.email不包含个人信息
+
+## HELP QA
+### 1、Q：怎样邀请更多同事加入项目？A：在项目 [受邀申请](https://github.com/csrcbank/8mm/tree/master/%E5%8F%97%E9%82%80%E7%94%B3%E8%AF%B7 "受邀申请") 目录中提交您需要邀请的成员email
+### 2、Q：这个项目是用来干什么的？ A：这个项目是用来收集大家的证据和诉求，以及记录整个事件处理过程的
+### 3、Q：为什么选择GitHub  A：因为GitHub是一个神奇的工具，他能给我们程序员力量
+
+## 如果您需要保持匿名，请注意如下事项：
+### 1、在您提交前确保使用的GitHub账号昵称不包含个人实名信息
+### 2、请设置您的GitHub账号不公开email地址
+### 3、请确保上传的病例信息打码个人信息
+### 4、git commit前使用git config -l命令查看当前项目配置，确保 user.name 和 user.email不包含个人信息
 
 
 ## 公开论坛贴
-<https://www.12345.suzhou.com.cn/bbs/forum.php?mod=viewthread&tid=1629548&extra=page%3D1&page=1 "寒山闻钟论坛贴">
+[寒山闻钟论坛贴](https://www.12345.suzhou.com.cn/bbs/forum.php?mod=viewthread&tid=1629548&extra=page%3D1&page=1 "寒山闻钟论坛贴")
 
 ## 我们的计划
 ### 1、积极地通过此私有GitHub项目收集信息以及诉求，让一切信息在我们内部充分地共享
