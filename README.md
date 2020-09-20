@@ -38,3 +38,9 @@
 ![avatar](https://qr.api.cli.im/newqr/create?data=https%3A%2F%2Fgitter.im%2Fcsrcbank%2Ftech&level=H&transparent=false&bgcolor=%23FFFFFF&forecolor=%23000000&blockpixel=12&marginblock=2&logourl=http%3A%2F%2Foss-cn-hangzhou.aliyuncs.com%2Fpublic-cli%2Ffree%2Fd7ec8f33f6cd770baed0518e854a8c691599875603.jpg&logoshape=rect&size=260&bgimg=&text=&fontsize=30&fontcolor=%23000000&fontfamily=simsun.ttc&incolor=&outcolor=&qrcode_eyes=null&background=&wper=&hper=&tper=&lper=&eye_use_fore=1&qrpad=10&kid=cliim&key=47de2c74871323527f45da3897b62527)
 
 #####  欢迎英文好的同事贡献此文的英文版
+
+
+----
+## Feed
+----
+### 2020年9月18日，一名毕业于毕业一年多的女生去九龙医院复查发现结节已经由6月份的2-4mm长大到了6mm。同事恐慌一片，领导开始有点重视了。在此之前领导一直是以维稳为主，一直想大事化小，小时化了，也许他们认为空气是否污染，他们可以通过空气检测结果来控制，结节是否由于空气导致的没有直接的推断。但是现在的情况是已经由2名同事做手术，多名同事接近8mm。如果更多同事像这位同事一样3个月长大2mm。快速增长的结节是恶性的可能性比较大。如果真出现了大面积的恶性结节，后果不堪设想。
