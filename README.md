@@ -61,3 +61,23 @@
 
 
 #####  欢迎英文好的同事贡献此文的英文版
+#### 如下为微软自动翻译
+----
+Feed.
+----
+On September 14, 2020, the lunchtime meeting informed the air test results, the air quality testing item is "air temperature, humidity, bacteria, carbon monoxide, carbon dioxide, formaldehyde indicators"
+The 2013 edition of the national standard for indoor air pollutants to be detected is 5 kinds (radon, formaldehyde, benzene, ammonia, TVOC), August 1, 2020 began to implement GB 50325-2020 "civil construction indoor environmental pollution control standards" "new national standard" added toluene and xylene, a total of 7 kinds.
+This test compares the main pollutants of the new and old national standards with only formaldehyde, which is included. There is no action plan for testing compliance with the requirements of the employee.
+----
+On September 18, 2020, a girl who had graduated for more than a year went to Kowloon Hospital to review and found that the knot had grown from 2-4mm in June to 6mm. Colleagues panicked and leaders began to pay a little attention. Until then the leadership has been to maintain stability-oriented, has been thinking about big things small, small, perhaps they think that air pollution, they can be controlled by air test results, knots due to air caused by no direct inference. But now the situation is that two colleagues have been operated on, many colleagues close to 8mm. If more colleagues grow up 2mm in 3 months like this colleague. Fast-growing nods are more likely to be malignant. If there is a large area of malignant nodding, the consequences are unimaginable.
+----
+On September 25, 2020, the second employee was advised to have surgery due to an 8mm warning of lung nods, and the left lung surgery removed 5 x 4 x 2cm, about 1/9 of the lungs, and there were several small nods in the lungs. Postoperative pathological diagnosis results "pulmonary in-place adenocarcinoma with micro-immersion". Many colleagues are polyglyceric nods, the lungs have many different sizes of nods, even through regular checks, like groundhogs, one by one to remove the worsening trend of nods, I am afraid the body is also unable to carry. After all, everyone's lungs are only 9 1/9, without exception.
+----
+On October 9, 2020, Zhuhai Approved Technology Co., Ltd. went on strike. Because more than 20 employees were deployed outside the 2.5 Industrial Park at changshu Agricultural bank's fintech headquarters, most of them found lung nods. One of the teams of about ten people, almost all of them, only one was spared. The company organizes everyone to collectively refuse to go to work, unless moved out of Suzhou 2.5 Industrial Park office, to Changshu office.
+----
+On October 9, 2020, Zhuhai Approved Technology Co., Ltd. went on strike. Because more than 20 employees were deployed outside the 2.5 Industrial Park at changshu Agricultural bank's fintech headquarters, most of them found lung nods. One of the teams of about ten people, almost all of them, only one was spared. The company organizes everyone to collectively refuse to go to work, unless moved out of Suzhou 2.5 Industrial Park office, to Changshu office.
+----
+On October 10, 2020, a bank girl employee was tested for serum cancer and was first diagnosed with lung cancer. Multiple nods in the lungs, with the largest nods reaching 7mm. Graduation is only a year, into the company medical examination normal, age less than 24 years old, this thing happened, dare not tell the parents at home. Face alone in tears.
+----
+On October 10, 2020, several employees went to the hospital together for a review, and the results were: multiple GGO (ground-glass opacity, GGO) lung grinding glass density shadow. Appears: the number of nodules increased, ordinary solid nodules evolved into more dangerous membrane glass nodules and so on. Employee representatives feedback that the bank has some type of insurance to deal with this situation, the clerk can contact communication. Are banks about to face up to this situation? So what do non-operators do?
+
