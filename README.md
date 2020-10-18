@@ -1,12 +1,15 @@
-# 8mm ～ 发声给我力量
-## 常熟农商银行(股票代码：601128) 8mm项目欢迎您
+# 8mm ～ 发声给我力量 ~ 欢迎传播
+## 常熟农商银行(股票代码：601128) 8mm项目 欢迎您
 
    [我们可以在 Issues中 讨论](https://github.com/csrcbank/8mm/issues "我们可以在 Issues中 讨论") 
    也可以我们的 Gitter 实时聊天群组  <https://gitter.im/csrcbank/tech>
 
 
-## 发生了什么
+## 发生了什么  What happened
 ### 如您所知，常熟农商行金融科技总部2.5产业园办公室员工体检，发现大量员工有肺部结节，现在我们正在和银行平和理性积极地沟通。创建此GitHub项目，是希望大家发挥自己地智慧，群策群力，用技术地手段让你我畅所欲言。
+
+As you know, Changshu Agricultural Bank's Fintech Headquarters 2.5 Industrial Park office staff medical examination, found that a large number of employees have lung nods, and now we are in peace and rational and active communication with the bank. To create this GitHub project, I hope that you can use their wisdom, collective efforts, technical means to let you and I speak freely.
+
 ----
 ## HELP QA
 ### 1、Q：这个项目是用来干什么的？ A：这个项目是用来收集大家的证据和诉求，以及记录整个事件处理过程的
@@ -57,13 +60,14 @@
 ----
 ### 2020年10月10日，一位银行女生员工血清癌抗检查，初诊为肺癌。肺部多个结节，最大的结节达到了7mm。毕业才一年，进入公司体检正常，年龄不到24岁，发生了这的事情，不敢告诉家里的爸妈。独自含泪面对。
 ----
-### 2020年10月10日，多名雇员结伴到医院复查，两位结果为：多发GGO(ground—glass opacity,GGO)肺内磨玻璃密度影。出现了：结节数目增加，普通实性结节演变成更加危险的膜玻璃结节等情况。员工代表反馈银行有某类保险可以应对这种情况，行员可以联系沟通。难道银行即将正面应对这个情况？那么非行员怎么处理呢？
+### 2020年10月16日，多名雇员结伴到医院复查，两位结果为：多发GGO(ground—glass opacity,GGO)肺内磨玻璃密度影。出现了：结节数目增加，普通实性结节演变成更加危险的膜玻璃结节等情况。员工代表反馈银行有某类保险可以应对这种情况，行员可以联系沟通。难道银行即将正面应对这个情况？那么非行员怎么处理呢？
 
 
 #####  欢迎英文好的同事贡献此文的英文版
 #### 如下为微软自动翻译
 ----
 Feed.
+
 ----
 On September 14, 2020, the lunchtime meeting informed the air test results, the air quality testing item is "air temperature, humidity, bacteria, carbon monoxide, carbon dioxide, formaldehyde indicators"
 The 2013 edition of the national standard for indoor air pollutants to be detected is 5 kinds (radon, formaldehyde, benzene, ammonia, TVOC), August 1, 2020 began to implement GB 50325-2020 "civil construction indoor environmental pollution control standards" "new national standard" added toluene and xylene, a total of 7 kinds.
@@ -79,5 +83,6 @@ On October 9, 2020, Zhuhai Approved Technology Co., Ltd. went on strike. Because
 ----
 On October 10, 2020, a bank girl employee was tested for serum cancer and was first diagnosed with lung cancer. Multiple nods in the lungs, with the largest nods reaching 7mm. Graduation is only a year, into the company medical examination normal, age less than 24 years old, this thing happened, dare not tell the parents at home. Face alone in tears.
 ----
-On October 10, 2020, several employees went to the hospital together for a review, and the results were: multiple GGO (ground-glass opacity, GGO) lung grinding glass density shadow. Appears: the number of nodules increased, ordinary solid nodules evolved into more dangerous membrane glass nodules and so on. Employee representatives feedback that the bank has some type of insurance to deal with this situation, the clerk can contact communication. Are banks about to face up to this situation? So what do non-operators do?
+On October 16, 2020, several employees went to the hospital together for a review, and the results were: multiple GGO (ground-glass opacity, GGO) lung grinding glass density shadow. Appears: the number of nodules increased, ordinary solid nodules evolved into more dangerous membrane glass nodules and so on. Employee representatives feedback that the bank has some type of insurance to deal with this situation, the clerk can contact communication. Are banks about to face up to this situation? So what do non-operators do?
+
 
