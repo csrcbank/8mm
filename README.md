@@ -62,15 +62,16 @@ If one day we achieve the desired results, we can vote internally on whether to 
 
 ----
 ## 我们也可以通过下面的gitter群组实时聊天 We can also talk freely in the bellow site.
-## 我们的 Gitter 实时聊天群组  <https://gitter.im/csrcbank/tech>
+## 我们的 Gitter 实时聊天群组  <https://gitter.im/csrcbank/tech> 
 
 #####  欢迎英文好的同事贡献此文的英文版
 
 ----
-1.员工邀请独立检测机构匿名前往常熟银行2.5产业园办公室M3栋办公室，按照GB 50325-2020《民用建筑工程室内环境污染控制标准》目前的空气质量
-2.邀请工程监理机构审计所有装修材料是否符合相关标准
-3.统计病例，建立跟踪档案，定期复查，银行承担费用
-4.积极跟员工协商善后计划
+-1.员工邀请独立检测机构匿名前往常熟银行2.5产业园办公室M3栋办公室，按照GB 50325-2020《民用建筑工程室内环境污染控制标准》目前的空气质量
+-2.邀请工程监理机构审计所有装修材料是否符合相关标准
+-3.统计病例，建立跟踪档案，定期复查，银行承担费用
+-4.积极跟员工协商善后计划
+
 ----
 
 ----
