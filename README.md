@@ -50,7 +50,9 @@ Use the git config -l command to view the current project configuration before g
 ----
 
 ## 公开论坛贴
-[寒山闻钟论坛贴](https://www.12345.suzhou.com.cn/bbs/forum.php?mod=viewthread&tid=1629548&extra=page%3D1&page=1 "寒山闻钟论坛贴")
+[寒山闻钟论坛贴01](https://www.12345.suzhou.com.cn/bbs/forum.php?mod=viewthread&tid=1629548&extra=page%3D1&page=1 "寒山闻钟论坛贴01")
+[寒山闻钟论坛贴02](https://www.12345.suzhou.com.cn/bbs/forum.php?mod=viewthread&tid=1635970&extra=page%3D1 "寒山闻钟论坛贴02")
+
 ----
 ## 我们的计划
 ### 1、积极地通过此私有GitHub项目收集信息以及诉求，让一切信息充分地共享
