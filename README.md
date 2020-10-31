@@ -101,8 +101,7 @@ If one day we achieve the desired results, we can vote internally on whether to 
 
 ----
 ### 任何媒体或者个人有任何疑问可以向常熟银行相关领导求证：
-#### 付行长：18801570168
-#### 黄总裁：13962381529
+#### 行方调查组电话：0512-52909332 张女士
 #### 常熟银行客服电话：客服(投诉监督)电话: 956020 
 #### 廉洁建设举报邮箱: jcs@csrcbank.com 
 ----
