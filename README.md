@@ -4,6 +4,8 @@
 - 关注我们，请点击小星星收藏本项目
 - 互动请提Issues
 
+- 声明：本项目由受害中的程序员群体发起并维护，与常熟农商银行公司无关
+
 
 ## 常熟农商银行(股票代码：601128)  8mm项目 欢迎您
 
@@ -12,7 +14,7 @@
 
 
 ## 发生了什么  What happened
-### 如您所知，常熟农商行金融科技总部2.5产业园办公室员工体检，发现大量员工有肺部结节，现在我们正在和银行平和理性积极地沟通。创建此GitHub项目，是希望大家发挥自己地智慧，群策群力，用技术的手段让你我畅所欲言。
+### 常熟农商行金融科技总部2.5产业园办公室员工体检，发现大量员工有肺部结节，现在我们正在和银行平和理性积极地沟通。创建此GitHub项目，是希望大家发挥自己地智慧，群策群力，用技术的手段让你我畅所欲言。
 
 As you know, Changshu Agricultural Bank's Fintech Headquarters 2.5 Industrial Park office staff medical examination, found that a large number of employees have lung nods, and now we are in peace and rational and active communication with the bank. To create this GitHub project, I hope that you can use their wisdom, collective efforts, technical means to let you and I speak freely.
 
@@ -65,8 +67,6 @@ If one day we achieve the desired results, we can vote internally on whether to 
 ----
 ## 我们也可以通过下面的gitter群组实时聊天 We can also talk freely in the bellow site.
 ## 我们的 Gitter 实时聊天群组  <https://gitter.im/csrcbank/tech> 
-
-#####  欢迎英文好的同事贡献此文的英文版
 
 ----
 ## 我们的呼声：
@@ -152,6 +152,17 @@ If one day we achieve the desired results, we can vote internally on whether to 
 ### 2020年11月29日,从10月28日媒体开始报道至今已过去一个月。病友群人数从96人增长到155人，共4位肺癌，其中2人手术活检确诊，2人肺癌抗体血清阳性。
 
 ### 2020年12月07日,原定12月23号公布第三次环境检测报告，现在已经延后半个月，具体公布时间未知。
+
+### 2020年12月10日,总行领导召集会议，宣布有部分指标项超标，为谨慎和负责，行方决定于12月13日再次采样检测。
+
+### 2020年12月13日,江苏金小满环境检测有限公司再次采样检测，检测采样日前一天【周六】和当天【周日】大楼门窗和空调开启，通风量超过日常。行方面对员工私下讨论质疑的回应是采样前1小时封闭符合国标。
+
+### 2020年12月18日，上海肺科医院放射科主任医生孙希文，受常熟农商银行邀请，到苏州2.5产业园M3栋，现场阅片坐诊。下午举办讲座答疑。
+
+### 2020年12月31日，2020年结束。检测报告未公布。
+
+
+
 
 ----
 
